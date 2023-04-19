@@ -234,7 +234,6 @@
     "dkuProperties": []
   },
   "name": "Haiku Starter for Administrator",
-  "projectStatus": "Sandbox",
   "imgPattern": 8,
   "showInitials": false,
   "metrics": {
@@ -292,11 +291,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 150,
+    "versionNumber": 151,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1681923362904
+    "lastModifiedOn": 1681923415458
   },
   "creationTag": {
     "versionNumber": 0,
@@ -310,7 +309,8 @@
   "tags": [
     "tutorial",
     "downloads",
-    "section:General Topics"
+    "section:General Topics",
+    "duplicated"
   ],
   "customFields": {},
   "checklists": {
